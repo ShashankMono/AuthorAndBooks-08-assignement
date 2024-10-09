@@ -1,0 +1,14 @@
+D:\monocept_c# learning\Assignment\AuthorsAndBooks\AuthorsAndBooks\bin\Debug\net8.0\AuthorsAndBooks.exe
+D:\monocept_c# learning\Assignment\AuthorsAndBooks\AuthorsAndBooks\bin\Debug\net8.0\AuthorsAndBooks.deps.json
+D:\monocept_c# learning\Assignment\AuthorsAndBooks\AuthorsAndBooks\bin\Debug\net8.0\AuthorsAndBooks.runtimeconfig.json
+D:\monocept_c# learning\Assignment\AuthorsAndBooks\AuthorsAndBooks\bin\Debug\net8.0\AuthorsAndBooks.dll
+D:\monocept_c# learning\Assignment\AuthorsAndBooks\AuthorsAndBooks\bin\Debug\net8.0\AuthorsAndBooks.pdb
+D:\monocept_c# learning\Assignment\AuthorsAndBooks\AuthorsAndBooks\obj\Debug\net8.0\AuthorsAndBooks.GeneratedMSBuildEditorConfig.editorconfig
+D:\monocept_c# learning\Assignment\AuthorsAndBooks\AuthorsAndBooks\obj\Debug\net8.0\AuthorsAndBooks.AssemblyInfoInputs.cache
+D:\monocept_c# learning\Assignment\AuthorsAndBooks\AuthorsAndBooks\obj\Debug\net8.0\AuthorsAndBooks.AssemblyInfo.cs
+D:\monocept_c# learning\Assignment\AuthorsAndBooks\AuthorsAndBooks\obj\Debug\net8.0\AuthorsAndBooks.csproj.CoreCompileInputs.cache
+D:\monocept_c# learning\Assignment\AuthorsAndBooks\AuthorsAndBooks\obj\Debug\net8.0\AuthorsAndBooks.dll
+D:\monocept_c# learning\Assignment\AuthorsAndBooks\AuthorsAndBooks\obj\Debug\net8.0\refint\AuthorsAndBooks.dll
+D:\monocept_c# learning\Assignment\AuthorsAndBooks\AuthorsAndBooks\obj\Debug\net8.0\AuthorsAndBooks.pdb
+D:\monocept_c# learning\Assignment\AuthorsAndBooks\AuthorsAndBooks\obj\Debug\net8.0\AuthorsAndBooks.genruntimeconfig.cache
+D:\monocept_c# learning\Assignment\AuthorsAndBooks\AuthorsAndBooks\obj\Debug\net8.0\ref\AuthorsAndBooks.dll
